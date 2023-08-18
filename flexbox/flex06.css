@@ -1,0 +1,150 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.conteiner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.cabeçalho {
+    background-color: rgb(168, 168, 238);
+    width: 50vw;
+    height: 10vh;
+}
+
+.meio {
+    background-color: rgb(113, 113, 179);
+    width: 50vw;
+    height: 80vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.um {
+     background-color: rgb(25, 80, 73);
+    width: 45vw;
+    height: 70vh;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    display: flex;
+}
+
+.cabeça {
+    background-color: aliceblue;
+    width: 40vw;
+    height: 7vh;
+    margin-top: 10px;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    display: flex;
+}
+
+.c1 {
+    background-color: rgb(87, 84, 84);
+    width:3vw;
+    height: 5vh;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.cc2 {
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    display: flex;
+}
+
+.c2 {
+    background-color: rgb(92, 86, 86);
+    width: 15vw;
+    height: 2vh;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+.c22 {
+    background-color: rgb(92, 86, 86);
+    width: 15vw;
+    height: 2vh;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.cc3 {
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: flex-end;
+    align-items: flex-end;
+    display: flex;
+}
+
+.c3 {
+    background-color: rgb(92, 86, 86);
+    width: 3vw;
+    height: 5vh;
+    margin-left: 290px;
+    margin-top: 10px;
+}
+
+.corpo {
+    background-color: rgb(112, 160, 202);
+    width: 40vw;
+    height: 100vh;
+    margin-top: 10px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.co1 {
+    background-color: rgb(92, 86, 86);
+    width: 38vw;
+    height: 40vh;
+    margin-bottom: 10px;
+    
+}
+
+.co2 {
+    background-color: rgb(92, 86, 86);
+    width: 38vw;
+    height: 3vh;
+}
+
+.pe {
+    background-color: rgb(202, 230, 255);
+    width: 40vw;
+    height: 7vh;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    justify-content: flex-end;
+    align-items: center;
+    flex-direction: row;
+    display: flex;
+}
+
+.pezinho {
+    background-color:rgb(92, 86, 86);
+    width: 3vw;
+    height: 5vh;
+    margin: 5px;
+    justify-content: flex-end;
+    align-items: center;
+    flex-direction: row;
+
+}
+
+.rodape {
+    background-color: rgb(20, 0, 34);
+    width: 100vw;
+    height: 10vh;
+}

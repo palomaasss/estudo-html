@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.fora {
+    background-color: rgb(250, 135, 135);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dentro {
+      background-color: rgb(250, 80, 80);
+    width: 30vw;
+    height: 65vh;
+}

@@ -1,0 +1,160 @@
+.faixa-cinza{
+    background-color: #eaeaea;
+    width: 100vw;
+    height: 42vh;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 15px;
+}
+
+.texto-faixa-cinza > p{
+    font-size: 16px;
+    color: #666;
+    width: 405px;
+    line-height: 22px;
+    font-family: 'f1';
+}
+
+.texto-faixa-cinza{
+    width: 528px;
+    height: 129.5;
+}
+
+strong{
+    font-weight: 700;
+    color: #2d2d2d;
+}
+
+#imagem-1{
+    width: 102.94px;
+    height: 103.16px;
+}
+
+.images-faixa-cinza > img{
+    width: 100.59px;
+    height: 103.97px;
+}
+
+.texto-faixa-cinza > img{
+    width: 250px;
+}
+
+
+
+
+
+
+.faixa-centro {
+    padding: 114px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.faixa-centro > h1 {
+    text-align: center;
+    font-size: 38px;
+}
+
+.faixa-centro > p {
+    margin-top: 10px;
+}
+
+.fc-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.fc-container > div{
+    margin-right: 60px;
+    margin-top: 50px;
+}
+
+.texto-ibope {
+    font-size: 22px;
+    height: 133px;
+    width: 329px;
+}
+
+#fc-titulos {
+    color: #eb194b;
+    font-size: 22px;
+    padding-bottom: 20px;
+}
+
+.img-top-mind {
+    height: 265px;
+    width: 322px;
+}
+
+.img-reconhecimento {
+    width: 319px;
+    height: 242px;
+}
+
+#strong-2 {
+    font-weight: 700px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.F-rosa{
+    background-color: #eb194b;
+    width: 100vw;
+    height: 40vh;
+    display: flex;
+}
+.F-rosa-sim{
+    display: flex;
+    flex-direction: column;
+    padding: 25px 70px;
+}
+.F-rosa-img{
+    width: 40px;
+}
+.F-rosa-p{
+    color: #fff;
+    font-family: 'font5';
+    width: 20vw;
+    font-size: 32px;
+    
+}
+.F-rosa-txt{ 
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    width: 60vw;
+    position: relative;
+    margin-top: 50px;
+    margin-left: 280px;
+}
+.F-rosa-txt1{
+    font-size: 20px;
+    font-family: 'f1';
+}
+.F-rosa-txt2{
+    font-size: 17px;
+    font-family: 'f3';
+}

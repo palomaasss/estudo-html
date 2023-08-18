@@ -1,0 +1,87 @@
+    * {
+        margin:0px;
+        box-sizing: border-box;
+    }
+
+    .cabeça {
+        background-color: azure;
+        width: 100vw;
+        height: 50vh;
+    }
+
+    .conteiner {
+        display: flex;
+       flex-direction: column;
+    }
+
+   .pe {
+    background-color: rgb(0, 0, 0);
+    width: 100vw;
+    height: 50vh;
+   }
+
+    .sub1{
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-end;
+        flex-direction: column;
+    }
+
+
+
+ .um {
+    background-color: antiquewhite;
+    width: 25vw;
+    height: 3vh;
+    margin: 5px;
+    margin-right: 25px;
+ }
+ .uno {
+    background-color: antiquewhite;
+    width: 25vw;
+    height: 3vh;
+    margin: 5px;
+    margin-right: 25px;
+    margin-top:20px;
+ }
+
+
+ .sub2{
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        flex-direction: column;
+    }
+
+     .dois {
+    background-color: antiquewhite;
+    width: 25vw;
+    height: 3vh;
+    margin: 5px;
+    margin-left: 25px;
+ }
+
+
+ .sub3 {
+    display: flex;
+        justify-content: flex-start;
+        align-items: flex-start;
+        flex-direction: column;
+ }
+
+ .tres {
+    background-color: antiquewhite;
+    width: 25vw;
+    height: 3vh;
+    margin: 5px;
+    margin-left: 25px;
+ }
+
+ .trs {
+    background-color: antiquewhite;
+    width: 25vw;
+    height: 3vh;
+    margin: 5px;
+    margin-left: 25px;
+    margin-top:  37px;
+ }

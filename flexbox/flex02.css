@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.conteiner {
+    display: flex;
+   flex-direction: column;
+}
+
+.cabeça {
+    background-color: rgb(238, 162, 238);
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+}
+
+.meio {
+    display: flex;
+    flex-direction: row;
+}
+
+.um {
+    background-color: rgb(168, 63, 154);
+    width: 20vw;
+    height: 80vh;
+    display: flex;
+}
+
+.dois {
+    background-color: rgb(243, 0, 211);
+    width: 80vw;
+    height: 80vh;
+    display: flex;
+}
+
+.pe {
+    background-color: rgb(241, 86, 208);
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+}

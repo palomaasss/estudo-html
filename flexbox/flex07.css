@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+    }
+
+    div{
+       background-color: rgb(188, 247, 247);
+       height: 32vh;
+       width: 100vw;
+       justify-content: flex-start;
+       align-items: center;
+       flex-direction: row;
+       display: flex;
+    }
+
+    .um{
+    background-color: rgb(161, 219, 211);
+    height: 22vh;
+    width: 10vw;
+    display: flex;
+    margin-left: 10px;
+    margin-bottom: 12px;
+    }

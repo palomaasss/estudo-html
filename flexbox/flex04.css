@@ -1,0 +1,90 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.conteiner {
+    flex-direction: row;
+}
+
+.cabeçalho {
+    background-color: rgb(174, 174, 211);
+    width: 100vw;
+    height: 20vh;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.quad1 {
+    background-color:rgb(139, 127, 127);
+    margin: 10px 10px;
+    width: 8vw;
+    height: 12vh;
+}
+.quad2 {
+    background-color:rgb(139, 127, 127);
+    margin: 10px 10px;
+    width: 8vw;
+    height: 12vh;
+}
+
+.quad3{
+    background-color:rgb(139, 127, 127);
+    margin: 10px 10px;
+    width: 8vw;
+    height: 12vh;
+}
+
+.quad4 {
+    background-color:rgb(139, 127, 127);
+    margin: 10px 10px;
+    width: 8vw;
+    height: 12vh;
+}
+
+.conteudo {
+    background-color: rgb(80, 80, 136);
+    width: 100vw;
+    height: 40vh;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.qua1 {
+    background-color: rgb(139, 127, 127);
+    margin: 100px 50px;
+    width: 17vw;
+    height: 35vh;
+    margin: 100px 100px;
+}
+.qua2 {
+    background-color: rgb(139, 127, 127);
+    width: 17vw;
+    height: 35vh;
+    margin: 100px 10px;
+}
+
+.rodape {
+    background-color:rgb(138, 43, 226);
+    display: flex;
+    width: 100vw;
+    height: 40vh;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.qu1 {
+    background-color: rgb(139, 127, 127);
+    margin: 100px 50px;
+    width: 17vw;
+    height: 35vh;
+    margin: 100px 100px;
+}
+
+.qu2 {
+    background-color: rgb(139, 127, 127);
+    width: 17vw;
+    height: 35vh;
+    margin: 100px 10px;
+}

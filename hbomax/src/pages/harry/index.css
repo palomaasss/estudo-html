@@ -1,0 +1,60 @@
+
+body {
+    background-color: #030328;
+    overflow-x: hidden;
+}
+
+
+
+
+
+.fixado{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100vw;
+    height: 8vh;
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.288);
+}
+
+.fixado > img {
+    display: flex;
+    align-self: center;
+    justify-content: flex-start;
+    width: 12vw;
+    height: 7vh;
+    margin:10px;
+}
+
+.f-text {
+    display: flex;
+    align-items: center
+
+}
+
+.f-text a {
+    font-size: 12px;
+    font-family: 'harry2';
+    margin: 10px;
+    letter-spacing: 2px;
+    color: #ffffff;
+}
+
+.f-text a:hover{
+    cursor: pointer;
+}
+
+#f-assine {
+    background-color: rgb(181, 53, 246);
+    border-radius: 25px;
+    padding: 12px 29px; 
+}
+
+#f-assine:hover {
+    background-color: #ffffff;
+    color: #000000;
+    transition: 0.8s;
+    cursor: pointer;
+}

@@ -1,0 +1,37 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.cabeçalho {
+    background-color: rgb(123, 207, 207);
+    width: 100vw;
+    height: 40vh;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: center;
+}
+
+.sub-roxo {
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+.roxo {
+    background-color: rgb(205, 152, 255);
+     width: 8vw;
+    height: 15vh;
+    margin: 30px; 
+}
+
+.sub-verde {
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+.verde {
+    background-color: rgb(190, 255, 152);
+     width: 10vw;
+    height: 35vh;
+}

@@ -1,0 +1,84 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.conteiner {
+    flex-direction: row;
+
+}
+
+.cabeçalho {
+    background-color: rgb(252, 249, 92);
+    width: 100vw;
+    height: 15vh;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.quad1 {
+    background-color:rgb(139, 127, 127);
+    margin: 100px 10px;
+    width: 6vw;
+    height: 10vh;
+}
+.meio {
+    flex-direction: row;
+    display: flex;
+}
+.contesq {
+    background-color: rgb(255, 255, 151);
+    width: 25vw;
+    height: 70vh;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.qua1 {
+    background-color: rgb(139, 127, 127);
+    margin: 15px 50px;
+    width: 21vw;
+    height: 6vh;
+}
+
+.qua2 {
+    background-color: rgb(139, 127, 127);
+    margin: 15px 50px;
+    width: 21vw;
+    height: 45vh;
+}
+
+.contdir {
+    background-color: rgb(255, 218, 96);
+    width: 75vw;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.qu1 {
+    background-color: rgb(139, 127, 127);
+    margin: 15px 50px;
+    width: 23vw;
+    height: 45vh;
+}
+
+.rodape {
+    background-color: rgb(252, 249, 92);
+    width: 100vw;
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pe {
+    background-color:rgb(139, 127, 127);
+    width: 25vw;
+    height: 8vh;
+    display: flex;
+}

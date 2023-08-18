@@ -1,0 +1,177 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.sessao{
+    display: flex;
+    flex-direction: column;
+    }
+
+.conteudo{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(201, 255, 255);
+    height: 60vh;
+    width: 100vw;
+
+}
+.cont{
+    display: flex;
+    flex-direction: column;
+}
+.esq{
+display: flex;
+flex-direction: row;
+}
+
+.c1>div{
+background-color: rgb(216, 174, 255);
+height: 150px;
+width: 150px;
+margin: 20px;
+
+}
+.c2>div{
+    background-color: rgb(211, 255, 168);
+    height: 320px;
+    width: 200px;
+    margin: 20px;
+
+}
+.c3>div{
+    background-color: rgb(216, 174, 255);
+    height: 150px;
+    width: 150px;
+    margin: 20px;
+
+}
+    .c4>div{
+        background-color: rgb(211, 255, 168);
+        height: 320px;
+        width: 200px;
+        margin: 20px;
+    }
+
+
+.c5>div{
+background-color: #2b2929;
+height: 100px;
+width: 825px;
+margin:20px;
+}
+
+.mid{
+display: flex;
+flex-direction: row;
+
+}
+
+
+
+.mid>div{
+    background-color: #2b2929;
+    height: 55vh;
+    width: 500px;
+    margin: 20px;
+
+}
+
+.direita{
+display: flex;
+flex-direction: column;
+
+
+}
+.um1{
+    background-color: rgb(216, 174, 255);
+    height: 350px;
+    width: 380px;
+    margin: 20px;
+
+
+}
+
+.dois1{
+    background-color: rgb(211, 255, 168);
+        height: 200px;
+        width: 380px;
+        margin: 20px;
+}
+
+.conteiner {
+    display: flex;
+   flex-direction: column;
+}
+
+.pe {
+background-color: rgb(0, 0, 0);
+width: 100vw;
+height: 50vh;
+}
+
+.sub1{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    flex-direction: column;
+}
+
+
+
+.um2 {
+background-color: antiquewhite;
+width: 25vw;
+height: 3vh;
+margin: 5px;
+margin-right: 25px;
+}
+.uno {
+background-color: antiquewhite;
+width: 25vw;
+height: 3vh;
+margin: 5px;
+margin-right: 25px;
+margin-top:20px;
+}
+
+
+.sub2{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+}
+
+ .dois2 {
+background-color: antiquewhite;
+width: 25vw;
+height: 3vh;
+margin: 5px;
+margin-left: 25px;
+}
+
+
+.sub3 {
+display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.tres {
+background-color: antiquewhite;
+width: 25vw;
+height: 3vh;
+margin: 5px;
+margin-left: 25px;
+}
+
+.trs {
+background-color: antiquewhite;
+width: 25vw;
+height: 3vh;
+margin: 5px;
+margin-left: 25px;
+margin-top:  37px;
+}

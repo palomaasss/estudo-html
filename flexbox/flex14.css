@@ -1,0 +1,100 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.sessao{
+    display: flex;
+    flex-direction: row;
+    }
+
+.conteudo{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(201, 255, 255);
+    height: 60vh;
+    width: 100vw;
+
+}
+.cont{
+    display: flex;
+    flex-direction: column;
+}
+.esq{
+display: flex;
+flex-direction: row;
+}
+
+.c1>div{
+background-color: rgb(216, 174, 255);
+height: 150px;
+width: 150px;
+margin: 20px;
+
+}
+.c2>div{
+    background-color: rgb(211, 255, 168);
+    height: 320px;
+    width: 200px;
+    margin: 20px;
+
+}
+.c3>div{
+    background-color: rgb(216, 174, 255);
+    height: 150px;
+    width: 150px;
+    margin: 20px;
+
+}
+    .c4>div{
+        background-color: rgb(211, 255, 168);
+        height: 320px;
+        width: 200px;
+        margin: 20px;
+    }
+
+
+.c5>div{
+background-color: #2b2929;
+height: 45px;
+width: 825px;
+margin: 20px;
+}
+
+.mid{
+display: flex;
+flex-direction: row;
+
+}
+
+
+
+.mid>div{
+    background-color: #2b2929;
+    height: 55vh;
+    width: 500px;
+    margin: 20px;
+
+}
+
+.direita{
+display: flex;
+flex-direction: column;
+
+
+}
+.um{
+    background-color: rgb(216, 174, 255);
+    height: 350px;
+    width: 380px;
+    margin: 20px;
+
+
+}
+
+.dois{
+    background-color: rgb(211, 255, 168);
+        height: 200px;
+        width: 380px;
+        margin: 20px;
+}

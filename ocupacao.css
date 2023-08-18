@@ -1,0 +1,25 @@
+div {
+    border : 5px solid rgb(228, 159, 159);
+    margin: 10px ;
+    padding: 10px;
+    border-radius: 20px;
+    display: inline-block;
+    text-align: center;
+}
+
+
+h1 {
+    color:rgb(31, 4, 8);
+    margin-left: 500px;
+}
+
+.desloc {
+    margin-left: 10px rgb(141, 34, 34);
+    background-color: antiquewhite;
+}
+
+.campo {
+    background-color: rgb(228, 159, 159);
+     margin-left: 500px;
+}
+

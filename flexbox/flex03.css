@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.conteiner {
+    display: flex;
+   flex-direction: column;
+}
+
+.cabeça {
+    background-color: rgb(162, 238, 162);
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+}
+
+.meio {
+    display: flex;
+    flex-direction: row;
+}
+
+.um {
+    background-color: rgb(84, 168, 63);
+    width: 33vw;
+    height: 80vh;
+    display: flex;
+}
+
+.dois {
+    background-color: rgb(8, 243, 0);
+    width: 33vw;
+    height: 80vh;
+    display: flex;
+}
+
+.tres{
+    background-color: rgb(173, 255, 47);
+    width: 33vw;
+    height: 80vh;
+    display: flex;
+    flex-grow: 1;
+}
+
+.pe {
+    background-color: rgb(91, 241, 86);
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+}
